@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dietType">
+        <item>none</item>
+        <item>balanced</item>
+        <item>high-fiber</item>
+        <item>high-protein</item>
+        <item>low-carb</item>
+        <item>low-fat</item>
+        <item>low-sodium</item>
+    </string-array>
+
+    <string-array name="mealTypes">
+        <item>None</item>
+        <item>breakfast</item>
+        <item>lunch</item>
+        <item>dinner</item>
+        <item>snack</item>
+        <item>teatime</item>
+    </string-array>
+
+    <string-array name="mealPriority">
+        <item>None</item>
+        <item>breakfast</item>
+        <item>lunch</item>
+        <item>dinner</item>
+        <item>snack</item>
+        <item>teatime</item>
+    </string-array>
+</resources>
